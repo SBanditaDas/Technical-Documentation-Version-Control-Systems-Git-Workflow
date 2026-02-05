@@ -8,5 +8,6 @@ Conflict Resolution: Professional protocols for handling merge conflicts and rep
 Corporate Best Practices: Atomic commits, conventional commit messaging, and pull request workflows."**
 
 
-📂 **[Download the Full Git Documentation PDF](Git Documentation.pdf)**
+📂 **[Download the Full Git Documentation PDF](https://github.com/SBanditaDas/Technical-Documentation-Version-Control-Systems-Git-Workflow/blob/main/Git%20Documentation.pdf)**
+
 *(Click the link above to view or download the technical guide)*
